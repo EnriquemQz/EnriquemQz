@@ -2,9 +2,9 @@
 <div align="center">
 <h1 align="center">Hola, soy Enrique Márquez👋</h1>
 </div>
-<!-- <img src="https://i.imgur.com/weNbhGZ.png"> -->
+<img src="https://i.imgur.com/NOHf8HJ.jpg">
 
-![Imagen121](https://github.com/EnriquemQz/EnriquemQz/assets/47344835/a1a2085c-6f75-4cd2-8e95-3be30bcaa94e)
+
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1PeO2FQ9K1_uP01awNcBtg?style=social)](https://youtube.com/GorinGongo?sub_confirmation=1)
 
 ## Sobre mi
