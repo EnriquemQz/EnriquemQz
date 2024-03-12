@@ -4,7 +4,7 @@
 </div>
 <!-- <img src="https://i.imgur.com/weNbhGZ.png"> -->
 
-![emDEv](https://github.com/EnriquemQz/EnriquemQz/assets/47344835/c6dcab09-241f-4b67-9e39-a372f70d7b3b)
+![Imagen121](https://github.com/EnriquemQz/EnriquemQz/assets/47344835/a1a2085c-6f75-4cd2-8e95-3be30bcaa94e)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1PeO2FQ9K1_uP01awNcBtg?style=social)](https://youtube.com/GorinGongo?sub_confirmation=1)
 
 ## Sobre mi
