@@ -1,19 +1,19 @@
 
 <div align="center">
-<h1 align="center">Hola, soy Enrique Márquez👋</h1>
+<h1 align="center">Hi, I´m Enrique Márquez👋</h1>
 </div>
 <img src="https://i.imgur.com/NOHf8HJ.jpg">
 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1PeO2FQ9K1_uP01awNcBtg?style=social)](https://youtube.com/GorinGongo?sub_confirmation=1)
 
-## Sobre mi
+## About me
 - 📲 Mobile developer
-- 🎥 Te enseño Flutter en [Youtube](https://youtube.com/GorinGongo?sub_confirmation=1)
+- 🎥 I Teach you Flutter in [Youtube](https://youtube.com/GorinGongo?sub_confirmation=1)
 - 🎓 Udemy Instructor 
 <br>
 
-## Cursos *Udemy*
+## Courses/Cursos *Udemy*
 <table>
 <tr>
 <td width="50%">
