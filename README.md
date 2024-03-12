@@ -9,7 +9,8 @@
 
 ## Sobre mi
 - 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/GorinGongo?sub_confirmation=1)
+- 🎥 Te enseño Flutter en [Youtube](https://youtube.com/GorinGongo?sub_confirmation=1)
+- 🎓 Udemy Instructor 
 <br>
 
 ## Cursos *Udemy*
